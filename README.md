@@ -10,13 +10,13 @@ for this framework and test.
 
 pom.xml file:
 Below are the dependencies are being used for this project :
-Cucumber Java: https://mvnrepository.com/artifact/io.cucumber/cucumber-java
-Cucumber JUnit: https://mvnrepository.com/artifact/io.cucumber/cucumber-junit
-RestAssured library: https://mvnrepository.com/artifact/io.rest-assured
-Github Java Faker: https://mvnrepository.com/artifact/com.github.javafaker/javafaker
-SchemaValidator: https://mvnrepository.com/artifact/io.rest-assured/json-schema-validator
-Jackson library : https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind
-Cucumber Reports plugins: https://plugins.jenkins.io/cucumber-reports/
+Cucumber Java:https://mvnrepository.com/artifact/io.cucumber/cucumber-java
+Cucumber JUnit:https://mvnrepository.com/artifact/io.cucumber/cucumber-junit
+RestAssured library:https://mvnrepository.com/artifact/io.rest-assured
+Github Java Faker:https://mvnrepository.com/artifact/com.github.javafaker/javafaker
+SchemaValidator:https://mvnrepository.com/artifact/io.rest-assured/json-schema-validator
+Jackson library :https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind
+Cucumber Reports plugins:https://plugins.jenkins.io/cucumber-reports/
 
 
                        API Testing:
